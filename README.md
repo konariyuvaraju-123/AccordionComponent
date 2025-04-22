@@ -1,0 +1,2 @@
+# AccordionComponent
+Frequently asked questions 
